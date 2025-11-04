@@ -1,7 +1,7 @@
 # EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
 ### Date: 04/11/2025
-### Name:Sarish Varshan V
-### Reg:212223230196
+### Name: Sarish Varshan V
+### Reg No: 212223230196
 
 ### AIM:
 To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python and compare with other models.
